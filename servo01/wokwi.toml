@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'diagram.json'
+elf = 'app1.elf'
